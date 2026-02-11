@@ -14496,7 +14496,6 @@ NODE_CLASS_MAPPINGS = {
     "Latent Size to Number": WAS_Latent_Size_To_Number,
     "Latent Upscale by Factor (WAS)": WAS_Latent_Upscale,
     "Load Image Batch": WAS_Load_Image_Batch,
-    "Load Text File": WAS_Text_Load_From_File,
     "Load Lora": WAS_Lora_Loader,
     "Lora Input Switch": WAS_Lora_Input_Switch,
     "Masks Add": WAS_Mask_Add,
