@@ -10788,7 +10788,6 @@ class WAS_Text_Save:
                 "filename_number_padding": ("INT", {"default": 4, "min": 0, "max": 9, "step": 1}),
             },
             "optional": {
-                "file_extension": ("STRING", {"default": ".txt"}),
                 "encoding": ("STRING", {"default": "utf-8"}),
                 "filename_suffix": ("STRING", {"default": ""})
             }
